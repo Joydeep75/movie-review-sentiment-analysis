@@ -3,9 +3,9 @@ This is a course project (Big Data Applications and Analytics by Prof. Geoffrey 
 
 Students:
 ========
-Joydeep Ghatak - jghatak@indiana.edu__
-Hari Gudigundla - hgudigun@indiana.edu__
-Anudhriti Katanguri - anukatan@indiana.edu__
+Joydeep Ghatak - jghatak@indiana.edu
+Hari Gudigundla - hgudigun@indiana.edu 
+Anudhriti Katanguri - anukatan@indiana.edu
 
 Project Objective:
 ==================
