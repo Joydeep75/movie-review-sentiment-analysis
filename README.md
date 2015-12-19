@@ -1,6 +1,12 @@
 # movie-review-sentiment-analysis
 This is a course project (Big Data Applications and Analytics by Prof. Geoffrey Fox) at Indiana Univeristy.
 
+Students:
+========
+Joydeep Ghatak - jghatak@indiana.edu__
+Hari Gudigundla - hgudigun@indiana.edu__
+Anudhriti Katanguri - anukatan@indiana.edu__
+
 Project Objective:
 ==================
 The main objective of the project is to train a Nave-Bayes algorithm with train data and perform
